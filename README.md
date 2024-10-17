@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Estou em busca da minha primeira experiência profissional na área da programação
+- 🔭 Atualmente estou atuando na área dos dados
 - 🌱Estudante de Ciência da Computação na Univesirdade Municipal de São Caetano do Sul
 - 💬 Contate-me por: Muaprigio@hotmail.com
 - 💼 Meu perfil Profissional: www.linkedin.com/in/muriloaprigiosantana
