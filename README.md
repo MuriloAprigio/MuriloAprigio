@@ -8,7 +8,6 @@
 - 💼 Meu perfil Profissional: www.linkedin.com/in/muriloaprigiosantana
 - 😄 Pronomes: Ele/Dele
 
-![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloAprigio&show_icons=true&theme=radical)
 
 ## Tecnologias que desenvolvo
 
