@@ -6,9 +6,12 @@
 - 🌱Estudante de Ciência da Computação na Univesirdade Municipal de São Caetano do Sul
 - 💬 Contate-me por: Muaprigio@hotmail.com
 - 💼 Meu perfil Profissional: www.linkedin.com/in/muriloaprigiosantana
-- 😄 Pronomes: Ele/Dele
 
-![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloAprigio&show_icons=true&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloAprigio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloAprigio&layout=compact&theme=tokyonight"/>
+</div>
+
 
 ## Tecnologias que desenvolvo
 
